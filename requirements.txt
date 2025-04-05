@@ -1,0 +1,6 @@
+streamlit
+openai
+pytesseract
+pandas
+Pillow
+py2app
